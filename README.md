@@ -45,7 +45,7 @@ Mi vida gira entre depurar modelos y depurar mi paciencia 🧘‍♂️.
 
 ### 📫 ¿Dónde encontrarme?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/salvador-romero-boukhoubza-503090238/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-romero-boukhoubza-503090238/)
 [![Mail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:salvador.romero98@gmail.com)
 
 
